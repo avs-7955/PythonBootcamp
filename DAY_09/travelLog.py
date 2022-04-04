@@ -17,6 +17,8 @@ travel_log = [
 
 
 def add_new_country(country_visited, no_of_visits, cities_visited):
+    """Takes the country visited, the number of inputs and citites visited as parameters.
+    It will then add them into the travel_log list."""
     country_adding = {}
     country_adding["country"] = country_visited
     country_adding["visits"] = no_of_visits
