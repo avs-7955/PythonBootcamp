@@ -12,9 +12,6 @@ travel_log = [
 ]
 # 🚨 Do NOT change the code above
 
-# TODO: Write the function that will allow new countries
-# to be added to the travel_log. 👇
-
 
 def add_new_country(country_visited, no_of_visits, cities_visited):
     """Takes the country visited, the number of inputs and citites visited as parameters.
