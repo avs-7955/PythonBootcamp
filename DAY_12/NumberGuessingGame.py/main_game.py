@@ -4,7 +4,7 @@ from random import *
 NUMBER = randint(1, 100)
 
 
-print("Welcome to the Number Guessing Game!\nI am thinking if a number between 1 and 100.")
+print("Welcome to the Number Guessing Game!\nI am thinking of a number between 1 and 100.")
 
 
 def game(attempts):
