@@ -2,6 +2,7 @@ MENU = {
     "espresso": {
         "ingredients": {
             "water": 50,
+            "milk": 0,
             "coffee": 18,
         },
         "cost": 1.5,
@@ -71,7 +72,7 @@ while(flag):
         print(f"Money: ${money}")
 
     elif(user_input != 'report' and user_input != 'off'):
-        print(MENU[user_input]['ingredients'])
+        # print(MENU[user_input]['ingredients'])       for debugging
         if(MENU[user_input]["ingredients"]["water"] < resources["water"]):
             if(MENU[user_input]["ingredients"]["milk"] < resources["milk"]):
                 if(MENU[user_input]["ingredients"]["coffee"] < resources["coffee"]):
