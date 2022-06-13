@@ -1,16 +1,14 @@
+# Classic Snake Game
+A snake game is a simple game where a snake moves around a box trying to eat an apple. Once it successfully eats the food, the length of the snake increases.
+
+The game is over when the snake runs into itself or any of the four walls of the box.
+
 <h1 align="center">
   <img src="https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/stack_GjMfbKvDP.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1655143763495" width="55" alt="stacklogo" />
 
  TechStack</h1>
 
 <div align="center"><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/>
-
-
-# Classic Snake Game
-A snake game is a simple game where a snake moves around a box trying to eat an apple. Once it successfully eats the food, the length of the snake increases.
-
-The game is over when the snake runs into itself or any of the four walls of the box.
-
 
 ## Screenshots
 At the start of the game, the food is at a random location and the snake starts from the middle of the screen.
