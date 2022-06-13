@@ -1,10 +1,10 @@
 # Etch-A-Sketch
 A tool where people can use W,A,S,D to move the pointer and draw images.
-Key 'W' - Forwards
-Key 'S' - Backwards
-Key 'D' - Clockwise
-Key 'A' - Anti-clockwise
-Key 'C' - Clear Screen and draw afresh
+Key 'W' - Forwards<br>
+Key 'S' - Backwards<br>
+Key 'D' - Clockwise<br>
+Key 'A' - Anti-clockwise<br>
+Key 'C' - Clear Screen and draw afresh<br>
 
 <h1 align="center">
   <img src="https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/stack_GjMfbKvDP.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1655143763495" width="55" alt="stacklogo-python" />
