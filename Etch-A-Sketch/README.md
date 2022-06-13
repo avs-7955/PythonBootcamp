@@ -1,5 +1,5 @@
 # Etch-A-Sketch
-A tool where people can use W,A,S,D to move the pointer and draw images.
+A tool where people can use W,A,S,D to move the pointer and draw images.<br>
 Key 'W' - Forwards<br>
 Key 'S' - Backwards<br>
 Key 'D' - Clockwise<br>
