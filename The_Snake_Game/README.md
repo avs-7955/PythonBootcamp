@@ -4,7 +4,7 @@ A snake game is a simple game where a snake moves around a box trying to eat an 
 The game is over when the snake runs into itself or any of the four walls of the box.
 
 <h1 align="center">
-  <img src="https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/stack_GjMfbKvDP.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1655143763495" width="55" alt="stacklogo" />
+  <img src="https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/stack_GjMfbKvDP.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1655143763495" width="55" alt="stacklogo-python" />
 
  TechStack</h1>
 
