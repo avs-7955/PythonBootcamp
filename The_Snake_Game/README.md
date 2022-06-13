@@ -3,6 +3,9 @@
 
  TechStack</h1>
 
+<div align="center"><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/>
+
+
 # Classic Snake Game
 A snake game is a simple game where a snake moves around a box trying to eat an apple. Once it successfully eats the food, the length of the snake increases.
 
