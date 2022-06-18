@@ -10,8 +10,13 @@ A race where 6 turtles compete to see who reaches the finish line first. The use
 
 ## Screenshots
 The user is asked to bet on one of the 6 turtles.
+<br>
 ![App Screenshot](https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/PythonMiniProjects/Turtle_Race/betting_GUI_sDBi06k-2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655567740804)
+<br>
 The turtle race begins!
+<br>
 ![App Screenshot](https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/PythonMiniProjects/Turtle_Race/Turtle_Racing_oR8H2vi6kD.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655567740845)
+<br>
 The winner of the race is shown!
+<br>
 ![App Screenshot](https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/PythonMiniProjects/Turtle_Race/winner_f5qQVjRN_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655567740790)
