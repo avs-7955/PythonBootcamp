@@ -6,7 +6,7 @@ This Python Program take various names from the text file as an input and makes 
 
  TechStack</h1>
 
-<div align="center"><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/>
+<div align="center"><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/></div>
 
 
 ## Author
