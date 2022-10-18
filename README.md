@@ -1,5 +1,5 @@
 # Python Mini Projects
-Here are many mini-projects made in Python.
+This repository consists of various Python projects which I made while learning Python.
 <br>
 Some of the main projects are:
 <br>
